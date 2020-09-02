@@ -67,9 +67,9 @@
   transform: translate3d(0, 0, 0);
 }
 .menu-branding .portrait {
-  width: 200px;
-  height: 200px;
-  background: url("/img/portrait.jpg");
+  width: 170px;
+  height: 170px;
+  background: url("/img/rsz_portrait.jpg");
   border-radius: 50%;
   border: solid 3px #eece1a;
 }
@@ -343,7 +343,7 @@ main#home h1 {
     transform: translate3d(100%, 0, 0);
   }
   .menu-branding .portrait {
-    background: url();
+    background: url("../img/rsz_portrait.jpg");
     width: 150px;
     height: 150px;
   }
